@@ -1,5 +1,5 @@
 #!/bin/bash
-#             XXII.IV.MMXXIII.BC DECEBAL.V.NISIPEANU.
+#             XX.V.MMXXIII.AC DECEBAL.V.NISIPEANU.
 #                ,___,                                                                                                
 #               n o,0 ne          "Roman Timer"                                                                       
 #  Powered by:   /)#)                                                                                               
